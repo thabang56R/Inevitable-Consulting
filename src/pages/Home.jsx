@@ -91,7 +91,7 @@ const Home = () => {
         <div data-aos="fade-left" data-aos-delay="600">
           <WhySection />
         </div>
-        <BbbeeBadge />
+        <Bbbeebadge />
         
         <div data-aos="fade-up" data-aos-delay="700">
           <ServicesSection />
