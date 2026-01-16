@@ -26,7 +26,7 @@ const FloatingSocialIcons = () => {
 
       <a 
         href="https://linkedin.com" 
-        target="Inevitable Consulting" 
+        target="Inevitable Accounting" 
         rel="noopener noreferrer" 
         className="social-float linkedin"
         aria-label="LinkedIn"

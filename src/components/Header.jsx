@@ -68,7 +68,7 @@ const Header = () => {
             <li><NavLink to="/contact" onClick={toggleMobileMenu}>Contact</NavLink></li>
           </ul>
           <div className="mobile-contact">
-            <a href="tel:+27124609885" className="phone-link">
+            <a href="tel:+27715347554" className="phone-link">
               <span className="phone-icon">☎</span> (071) 534 7554
             </a>
           </div>
