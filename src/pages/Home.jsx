@@ -10,7 +10,7 @@ import ExcellenceSection from '../components/ExcellenceSection';
 import WhySection from '../components/WhySection';
 import ServicesSection from '../components/ServicesSection';
 import ValueProposition from '../components/ValueProposition';
-import BbbeeBadge from '../components/BbbeeBadge';
+import Bbbeebadge from '../components/Bbbeebadge';
 import AccordionItem from '../components/AccordionItem';
 import FloatingSocialIcons from '../components/FloatingSocialIcons'; 
 
