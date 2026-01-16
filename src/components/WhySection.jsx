@@ -11,7 +11,8 @@ const WhySection = () => {
       </p>
       
       <p>
-       We have International and listed company experience. Our commitment is to transform and empower
+       We brings extensive experience gained from working with broad spectrum of International and Local companies , from emerging
+       businesses to prominent listed businesses. Our commitment is to transform and empower
        Small Medium and Micro Enterprises (SMMEs) through our bespoke solutions that are tailored to meet
        the unique needs of each client. We believe in building long-term partnerships based on trust, integrity, and mutual growth.
       </p>

@@ -41,7 +41,7 @@ const Services = () => {
             <h2>Our Services</h2>
 
             <div className="category">
-              <h3>Business Advisory Services</h3>
+              <h3>Advisory Services</h3>
               <ul>
                 <li>Strategic business planning and growth advisory</li>
                 <li>Financial modelling , forecasting and business budgeting</li>
@@ -53,7 +53,7 @@ const Services = () => {
             </div>
 
             <div className="category">
-              <h3>Business Taxation Services</h3>
+              <h3>Taxation Services</h3>
               <ul>
                 <li>Corporate, Individual and trust TAX compliance </li>
                 <li>VAT , PAYE , SDL , and UIF advisory and compliance</li>
@@ -65,9 +65,9 @@ const Services = () => {
             </div>
 
             <div className="category">
-              <h3>Business Accounting & Financial Reporting</h3>
+              <h3>Accounting & Financial Reporting</h3>
               <ul>
-                <li> Preparation of annual financial statements(IFRS FOR SMEs)</li>
+                <li> Preparation of annual financial statements(IFRS , IFRS for SMEs , Grap , MCS)</li>
                 <li> Monthly and quartely management reporting</li>
                 <li> Bookeeping and outsourced finance Functions</li>
                 <li> Audit readiness and auditor-General support</li>

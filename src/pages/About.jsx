@@ -8,7 +8,7 @@ import Footer from '../components/Footer';
 import FloatingSocialIcons from '../components/FloatingSocialIcons';
 
 const leadershipMembers = [
-  { name: 'Mr Monama MA', position: 'Managing Director & Co-Founder', image: '/director.png' },
+  { name: 'Mr Monama MA', position: 'Managing Director', image: '/director.png' },
   
 
 ];
@@ -53,7 +53,7 @@ const About = () => {
             <h2>Our Values</h2>
             <blockquote>
               ‘We uphold the highest ethical standards, ensuring honest , transparency , respect 
-              and Independence in all our engagements’ – Mr Monama MA (Director & co-Founder)
+              and Independence in all our engagements’ – Mr Monama MA (Managing-Director )
             </blockquote>
           </div>
         </section>
@@ -101,8 +101,10 @@ const About = () => {
         <section id="leadership" className="leadership" data-aos="fade-up" data-aos-delay="800">
           <div className="container">
             <h2>Our Leadership</h2>
-            <h3>Managing Director & Co-founder</h3>
-            <p>Mr Monama MA is an aspiring Charted Accountant with over 8 Years of professional Experience in Audit , Accounting , Taxation , and Advisory services. His career span engagements with small and medium enterprises , state-owned entities , private equity structures , and companies listed on the JSE , LSE, and NYSE.</p>
+            <h3>Managing Director </h3>
+            <p>Mr Monama MA is an aspiring Charted Accountant with over 8 Years of professional Experience in Audit , Accounting , Taxation , and Advisory services. He brings extensive experience gained from working with broad spectrum of international and local companies, from emerging businesses to prominent listed businesses.
+              He also brings experience from across multiple sectors , including real estate and property , general and commercial services, financial services, technology and media, oil, mining and energy, as well as public sector frameworks such as the MFMA, PFMA, and the nation's tax-collecting authority.
+            </p>
             
             <div className="leadership-grid">
               {leadershipMembers.map((member, index) => (

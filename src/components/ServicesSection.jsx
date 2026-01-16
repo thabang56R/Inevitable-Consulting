@@ -2,10 +2,10 @@ import React from 'react';
 
 const ServicesSection = () => {
   const services = [
-    "Business Advisory Services",
-    "Business Accounting & Financial Reporting ",
+    "Advisory Services",
+    "Accounting & Financial Reporting ",
     "Payroll & Compliance Services",
-    "Business Taxation Services",
+    "Taxation Services",
     
   ];
 

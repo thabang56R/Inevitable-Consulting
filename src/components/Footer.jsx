@@ -20,11 +20,11 @@ const Footer = () => {
               <div className="footer-logo-text">
                 <h3>INEVITABLE</h3>
                 <small>ACCOUNTING & ADVISORY </small>
-                <p style={{color:'green'}}>Consulting</p>
+                <p style={{color:'green'}}>(Pty) Ltd</p>
               </div>
             </div>
             <p className="footer-description" style={{color:'lightblue'}}>
-              A Trusted Accounting & Advisory Partners for Sustanable Growth across South Africa.
+              A Trusted Accounting & Advisory Partners for Sustainable Growth across South Africa.
             </p>
           </div>
 
@@ -43,13 +43,13 @@ const Footer = () => {
           <div className="footer-contact">
             <h4>Contact Us</h4>
             <address>
-              <p><strong>johannesburg office</strong></p>
-              <p>362 Isibaha, Tirong Estate, Johannesburg, 2000</p>
-              <p><strong>Polokwane office</strong></p>
+              <p><strong>johannesburg Office</strong></p>
+              <p>362 Isibaha Close, Tirong Estate, Johannesburg, 2000</p>
+              <p><strong>Polokwane Office</strong></p>
               <p>4 Nautalis, Emdo Park, Polokwane, 0742</p>
 
               <p><strong>Tel:</strong> <a href="tel:+27 71 534 7554">(071) 534 7554</a></p>
-              <p><strong>Email:</strong> <a href="mailto:info@inevitableconsulting.co.za">info@inevitableconsulting.co.za</a></p>
+              <p><strong>Email:</strong> <a href="mailto:info@inevitableaccounting.co.za">info@inevitableaccounting.co.za</a></p>
             </address>
 
             <div className="footer-social">

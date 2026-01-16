@@ -21,7 +21,7 @@ const Header = () => {
           <div className="logo-text">
             <h1>INEVITABLE</h1>
             <small>ACCOUNTING & ADVISORY</small>
-            <p style={{color:'green'}}>Consulting</p>
+            <p style={{color:'green'}}>(Pty) Ltd</p>
           </div>
         </div>
 
