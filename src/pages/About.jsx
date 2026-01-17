@@ -26,7 +26,7 @@ const About = () => {
         {/* About Banner */}
         <section className="about-banner" data-aos="fade-down">
           <div className="container">
-            <h1>Inevitable Accounting & Advisory</h1>
+            <h1>About Us</h1>
             <h2 style={{color:'green'}}>Clarity in Numbers , Confidence in Decisions , Sustanable growth</h2>
           </div>
         </section>
