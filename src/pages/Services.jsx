@@ -78,7 +78,7 @@ const Services = () => {
             <div className="category">
               <h3>Payroll & Compliance Services</h3>
               <ul>
-                <li>End-to-End Payroll processingan and administation</li>
+                <li>End-to-End Payroll processing and administation</li>
                 <li>Statutory compliance and reconciliations</li>
                 <li>Employee tax submissions and reporting</li>
                 <li>Payroll controls and governance reviews</li>

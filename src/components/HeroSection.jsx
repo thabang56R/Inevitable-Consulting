@@ -41,7 +41,7 @@ const HeroSection = () => {
     <section className="hero">
       <div className="container hero-container">
         <div className="hero-content-left">
-          <h2 style={{color:'green'}}>Inevitable Consulting</h2>
+          <h2 style={{color:'green'}}>Inevitable Accounting & Advisory</h2>
           <h1>
             We uphold highest ethical standards<br />
             ensuring honest , Transparency and<br />

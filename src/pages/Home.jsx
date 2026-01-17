@@ -107,8 +107,9 @@ const Home = () => {
       </main>
 
       <FloatingSocialIcons /> 
-
+      <div data-aos="fade-left" data-aos-delay="800">
       <Footer />
+      </div>
     </>
   );
 };
