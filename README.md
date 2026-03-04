@@ -6,6 +6,8 @@
 ![Responsive](https://img.shields.io/badge/Design-Responsive-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+**website Link**: https://inevitable-consulting-v2.vercel.app/
+
 A modern business website built for **Inevitable Accounting & Advisory**, designed to showcase accounting services, company information, and provide an easy way for clients to connect with the firm.
 
 The project focuses on delivering a **professional digital presence for financial services** using a clean and responsive frontend architecture.
