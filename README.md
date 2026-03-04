@@ -67,6 +67,22 @@ CSS + Modern layout techniques
 
 ---
 
+## 🧩 System Design Focus
+This project demonstrates full-stack architecture, API design, and scalable backend development using modern technologies.
+
+
+User Interface (React)
+
+        │
+        ▼
+        
+Node.js API (Express)
+
+        │
+        ▼
+        
+MongoDB Database
+
 # ⚙ Installation
 
 Clone the repository
